@@ -1,0 +1,29 @@
+{
+  "name": "cmsadmin3",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "x-editable": "~1.5.1",
+    "bootstrap": "~3.3.5",
+    "react": "~0.14.2",
+    "jquery": "~2.1.4",
+    "summernote": "~0.6.16",
+    "human-format": "~0.5.0",
+    "tweetnacl": "~0.13.2",
+    "HashRouter": "*",
+    "simplemde": "~1.8.1",
+    "jsonful": "^0.1.2",
+    "highlightjs": "^9.2.0",
+    "iOS-Overlay": "^0.0.1"
+  }
+}

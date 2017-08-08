@@ -1,0 +1,34 @@
+{
+  "name": "iOS-Overlay",
+  "version": "0.0.1",
+  "homepage": "https://github.com/izifortune/iOS-Overlay",
+  "authors": [
+    "Tait Brown <tbrown@gmail.com>",
+    "Fabrizio Fortunato <fortune@cortesconta.net>"
+  ],
+  "description": "iOS Overlay/Notification Plugin for the Web!",
+  "main": "js/iosOverlay.js",
+  "keywords": [
+    "overlay",
+    "ios"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "662d378e3034497c66db3560e9df9d09a05ac397"
+  },
+  "_source": "https://github.com/izifortune/iOS-Overlay.git",
+  "_target": "^0.0.1",
+  "_originalSource": "iOS-Overlay",
+  "_direct": true
+}

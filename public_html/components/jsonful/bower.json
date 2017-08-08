@@ -1,0 +1,23 @@
+{
+  "name": "jsonful",
+  "description": "JSONful javascript client",
+  "main": "client.js",
+  "authors": [
+    "Cesar Rodas <cesar@rodas.me>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "jsonful",
+    "json",
+    "client",
+    "rpc"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
